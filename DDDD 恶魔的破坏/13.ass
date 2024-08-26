@@ -9,10 +9,10 @@ YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
-Video Zoom Percent: 0.875000
-Scroll Position: 24
-Active Line: 27
-Video Position: 4886
+Video Zoom Percent: 0.750000
+Scroll Position: 72
+Active Line: 79
+Video Position: 9898
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -81,7 +81,7 @@ Dialogue: 0,0:05:08.91,0:05:09.40,zh,,0,0,0,,什么？
 Dialogue: 0,0:05:10.33,0:05:16.10,zh,,0,0,0,,8年前  我们的调查员在这里意外着陆\N并且将时光机遗留在了这里
 Dialogue: 0,0:05:16.10,0:05:18.57,zh,,0,0,0,,凰兰在她十岁的时候
 Dialogue: 0,0:05:18.57,0:05:21.53,zh,,0,0,0,,从别的平行世界来到了现在的时间轴
-Dialogue: 0,0:05:22.19,0:05:23.36,zh,,0,0,0,,她是一个“转移者”
+Dialogue: 0,0:05:22.19,0:05:23.36,zh,,0,0,0,,她是“转移者”
 Dialogue: 0,0:05:26.17,0:05:31.87,zh,,0,0,0,,说不定凰兰想再移动到一个新的世界去
 Dialogue: 0,0:05:32.99,0:05:36.73,zh,,0,0,0,,等下等下  信息量太大了  我还一头雾水
 Dialogue: 0,0:05:36.73,0:05:39.48,zh,,0,0,0,,能不能再说得简单易懂一些？
@@ -101,8 +101,8 @@ Dialogue: 0,0:06:40.22,0:06:41.32,zh,,0,0,0,,我也看见了
 Dialogue: 0,0:06:41.32,0:06:41.88,zh,,0,0,0,,诶？
 Dialogue: 0,0:06:44.09,0:06:48.88,zh,,0,0,0,,凰兰的形象真的与现在完全不同啊
 Dialogue: 0,0:06:49.43,0:06:51.67,zh,,0,0,0,,不仅仅是凰兰  还有门出
-Dialogue: 0,0:06:52.79,0:06:55.18,zh,,0,0,0,,门出转学过来才一年
-Dialogue: 0,0:06:55.18,0:06:56.97,zh,,0,0,0,,还没有融入这个班级
+Dialogue: 0,0:06:52.79,0:06:55.18,zh,,0,0,0,,门出转学过来一年
+Dialogue: 0,0:06:55.18,0:06:56.97,zh,,0,0,0,,都还没有融入这个班级
 Dialogue: 0,0:06:57.89,0:07:00.87,zh,,0,0,0,,而刚才是她们第一次对话
 Dialogue: 0,0:07:02.27,0:07:06.23,zh,,0,0,0,,几天之后  发生了一件小事
 Dialogue: 0,0:07:08.65,0:07:09.87,zh,,0,0,0,,我没有说谎
