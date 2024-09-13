@@ -11,7 +11,7 @@ ScaledBorderAndShadow: yes
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: zh,方正兰亭中粗黑_GBK,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H7F404040,0,0,0,0,100,100,1,0,1,2.5,0,2,0,0,30,0
-Style: zh-top,方正兰亭中粗黑_GBK,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H7F404040,0,0,0,0,100,100,0,0,1,2.5,0,8,0,0,30,0
+Style: zh-top,方正兰亭中粗黑_GBK,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H7F404040,0,0,0,0,100,100,0,0,1,2.5,0,8,0,0,30,0
 Style: screen,方正兰亭特黑_GBK,80,&H00000000,&H00FFFFFF,&H5DFFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1.2,0,8,60,60,66,0
 Style: sign,方正兰亭中粗黑_GBK,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H7F404040,0,0,0,0,100,100,0,0,1,1.5,0,7,20,0,20,0
 
@@ -203,6 +203,8 @@ Dialogue: 0,0:17:39.49,0:17:40.20,zh,,0,0,0,,怎么了？
 Dialogue: 0,0:17:41.58,0:17:45.91,zh,,0,0,0,,如果是我的原因造成了世界毁灭  你会怎么办？
 Dialogue: 0,0:17:45.91,0:17:47.25,zh,,0,0,0,,你的原因？
 Dialogue: 0,0:17:49.23,0:17:49.84,zh,,0,0,0,,对
+Dialogue: 0,0:17:51.86,0:17:53.10,zh,,0,0,0,,看招！
+Dialogue: 0,0:17:53.10,0:17:53.91,zh,,0,0,0,,唉呀
 Dialogue: 0,0:17:58.39,0:18:00.37,zh,,0,0,0,,也没什么关系吧
 Dialogue: 0,0:18:00.37,0:18:03.46,zh,,0,0,0,,就算凰凰成了全世界的敌人
 Dialogue: 0,0:18:03.46,0:18:05.84,zh,,0,0,0,,我也会站在你身边的噢
@@ -273,7 +275,7 @@ Dialogue: 0,0:20:23.88,0:20:27.41,zh-top,,0,0,0,,我也能怀抱所有的无理�
 Dialogue: 0,0:20:27.41,0:20:31.33,zh-top,,0,0,0,,最高のステージ見せてやる
 Dialogue: 0,0:20:27.41,0:20:31.33,zh-top,,0,0,0,,同你登上最华丽的舞台
 Dialogue: 0,0:20:31.33,0:20:35.16,zh-top,,0,0,0,,360°あおぞらに浮かんで
-Dialogue: 0,0:20:31.34,0:20:33.34,zh-top,,0,0,0,,漂浮在全方位的纯蓝色天空
+Dialogue: 0,0:20:31.34,0:20:35.16,zh-top,,0,0,0,,漂浮在全方位的纯蓝色天空
 Dialogue: 0,0:20:35.16,0:20:40.04,zh-top,,0,0,0,,たゆたって宇宙船つかまえにいこう
 Dialogue: 0,0:20:35.16,0:20:40.04,zh-top,,0,0,0,,一起搭上那宇宙飞船
 Dialogue: 0,0:20:40.04,0:20:43.21,zh-top,,0,0,0,,きっと約束だよ
