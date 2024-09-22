@@ -9,9 +9,9 @@ YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
-Scroll Position: 276
-Active Line: 280
-Video Position: 30993
+Scroll Position: 228
+Active Line: 232
+Video Position: 34763
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -254,7 +254,7 @@ Dialogue: 0,0:18:28.79,0:18:32.18,zh,,0,0,0,,也是  我们就在台下为她好
 Dialogue: 0,0:18:33.76,0:18:35.83,zh,,0,0,0,,门出  好久不见啊
 Dialogue: 0,0:18:36.23,0:18:38.25,zh,,0,0,0,,毕业以后第一次再见啊
 Dialogue: 0,0:18:39.23,0:18:43.74,zh,,0,0,0,,“步仁”的历史可以回溯至二十余年前
-Dialogue: 0,0:18:43.74,0:18:50.29,zh,,0,0,0,,最初的原型是1999年发布的娱乐型机器人“玩伴”
+Dialogue: 0,0:18:43.74,0:18:50.29,zh,,0,0,0,,最初的原型是1999年发布的娱乐型机器人“朋友”
 Dialogue: 0,0:18:50.29,0:18:53.61,zh,,0,0,0,,而现在  全新的“步仁”诞生了！
 Dialogue: 0,0:18:54.16,0:18:58.63,zh,,0,0,0,,接下来  有请宣传负责人来介绍进一步的内容
 Dialogue: 0,0:19:05.46,0:19:09.44,zh,,0,0,0,,我是SES公司市场部的主管  中川凰兰
