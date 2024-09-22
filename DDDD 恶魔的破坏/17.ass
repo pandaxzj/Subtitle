@@ -9,9 +9,14 @@ YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
-Scroll Position: 228
-Active Line: 232
-Video Position: 34763
+Audio File: ../../../../Downloads/[Erai-raws] Dead Dead Demons Dededededestruction - 17 [1080p][HEVC][Multiple Subtitle][3854B8B2].mkv
+Video File: ../../../../Downloads/[Erai-raws] Dead Dead Demons Dededededestruction - 17 [1080p][HEVC][Multiple Subtitle][3854B8B2].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 10
+Active Line: 23
+Video Position: 3227
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +50,7 @@ Dialogue: 0,0:01:53.08,0:01:54.73,zh,,0,0,0,,那些星号呢
 Dialogue: 0,0:01:54.73,0:01:57.51,zh,,0,0,0,,大多都飘散到宇宙中去了
 Dialogue: 0,0:02:00.50,0:02:02.47,zh,,0,0,0,,多亏了一位朋友
 Dialogue: 0,0:02:06.35,0:02:13.06,zh,,0,0,0,,某种意义上  是由于中川凰兰救下了门出\N才产生了现在这条时间轴上的世界
-Dialogue: 0,0:02:14.57,0:02:16.56,zh,,0,0,0,,》我们可以这样认为
+Dialogue: 0,0:02:14.57,0:02:16.56,zh,,0,0,0,,我们可以这样认为
 Dialogue: 0,0:02:24.68,0:02:27.28,zh,,0,0,0,,我在东京认识了她们
 Dialogue: 0,0:02:27.28,0:02:29.06,zh,,0,0,0,,虽然仅仅是很短的一段时间
 Dialogue: 0,0:02:29.06,0:02:31.63,zh,,0,0,0,,但我们在一起玩耍和相处得非常开心
@@ -55,7 +60,7 @@ Dialogue: 0,0:02:36.38,0:02:40.75,zh,,0,0,0,,就在8·32发生前不久\N我提�
 Dialogue: 0,0:02:40.75,0:02:43.48,zh,,0,0,0,,之后我再也没有见过门出了
 Dialogue: 0,0:02:44.43,0:02:45.65,zh,,0,0,0,,对不起…
 Dialogue: 0,0:02:46.57,0:02:49.94,zh,,0,0,0,,没事  你不需要道歉
-Dialogue: 0,0:02:49.94,0:02:52.73,zh,,0,0,0,,》不过…  虽然可能只是我多想了
+Dialogue: 0,0:02:49.94,0:02:52.73,zh,,0,0,0,,不过…  有传闻
 Dialogue: 0,0:02:54.10,0:02:58.60,zh,,0,0,0,,最近有由两架技术高超的驾驶员\N组成的最新型号步仁有人机小队
 Dialogue: 0,0:02:58.60,0:03:01.05,zh,,0,0,0,,正在为了救助民众而战斗着
 Dialogue: 0,0:03:02.20,0:03:04.21,zh,,0,0,0,,根据机体上的字母“D”
